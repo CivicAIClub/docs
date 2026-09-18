@@ -1,0 +1,7 @@
+.DS_Store
+.vscode/settings.json
+.idea/
+.claude/
+.env
+.env.*
+!.env.example
