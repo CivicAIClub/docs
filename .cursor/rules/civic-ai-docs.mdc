@@ -1,0 +1,12 @@
+---
+description: Context for the Civic AI Club docs repository — what lives here, the repo directory, and the conventions the onboarding guide must stay consistent with
+alwaysApply: true
+---
+
+# CivicAIClub/docs
+
+Club-wide documentation for the Civic AI Club (Pomfret School). Project code lives in separate repos: `case-a-clc-workflow`, `case-b-music-studio`, `case-c-dei-timeline`, `case-d-roster-export`. The old monorepo `Civic-AI-Github-Repository` is archived; never point readers at it.
+
+- `developer-onboarding.md` is the canonical Git/GitHub walkthrough for beginner high-school developers. Keep its tone plain and step-by-step, keep the "✅ You're done with this step when" checks, and keep it consistent with reality: branch prefixes are `feature/`, `fix/`, `chore/` (never `case-x/`); every repo requires a PR with one approval; Cursor rules are committed in each repo under `.cursor/rules/`; secrets never go in Git.
+- When a repo, team member, or client changes, update the Repositories table in the guide and the org profile README in `CivicAIClub/.github`.
+- Changes here go through a `chore/<description>` branch and a pull request, like every other repo.
