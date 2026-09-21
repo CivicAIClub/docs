@@ -19,12 +19,8 @@ Cayden has created a GitHub organization called **CivicAIClub**. **Each project 
 | A | [case-a-clc-workflow](https://github.com/CivicAIClub/case-a-clc-workflow) | AutoPlanner: Canvas assignments → per-student Google Docs planner (Python/FastAPI + Apps Script + static UI) | CLC Supported Study Hall | Luke Ryan, Jack Weinberg |
 | B | [case-b-music-studio](https://github.com/CivicAIClub/case-b-music-studio) | Music Studio portal: profiles, scheduling, Drive resources, recaps (Vite/React + Apps Script) | Mr. O'Neal | Serena Xu, JT Gannon |
 | C | [case-c-dei-timeline](https://github.com/CivicAIClub/case-c-dei-timeline) | Pomfret Voices: DEI interactive timeline and archive (Next.js) | Dr. McCarter | Zahir Williams, Keke Li |
-<<<<<<< HEAD
-| D | [case-d-roster-export](https://github.com/CivicAIClub/case-d-roster-export) | Canvas roster → Google Docs comment templates (Apps Script) | Mr. Ring | James Lake, Magnus Songhurst |
-| E | [case-e-college-counselling](https://github.com/CivicAIClub/case-e-college-counselling) | College counselling tools (discovery not started; stack TBD) | Mr. Wolanin | _unassigned_ |
-=======
 | D | [case-d-roster-export](https://github.com/CivicAIClub/case-d-roster-export) | Canvas roster → Google Docs comment templates (Apps Script) | Mr. Ring | James Lake, Magnus Songhurst, Jay Youm (alumni advisor) |
->>>>>>> chore/jay-youm-graduated
+| E | [case-e-college-counseling](https://github.com/CivicAIClub/case-e-college-counseling) | College counseling tools (discovery not started; stack TBD) | Mr. Wolanin | _unassigned_ |
 | — | [docs](https://github.com/CivicAIClub/docs) | This guide and other club-wide docs | — | everyone |
 
 Inside each repo, the layout is whatever that project needs (read its `README.md`). What every repo has in common:
@@ -129,7 +125,7 @@ git clone https://github.com/CivicAIClub/case-a-clc-workflow.git    # Case A: Lu
 git clone https://github.com/CivicAIClub/case-b-music-studio.git    # Case B: Serena, JT
 git clone https://github.com/CivicAIClub/case-c-dei-timeline.git    # Case C: Zahir, Keke
 git clone https://github.com/CivicAIClub/case-d-roster-export.git   # Case D: James, Magnus
-git clone https://github.com/CivicAIClub/case-e-college-counselling.git   # Case E: unassigned
+git clone https://github.com/CivicAIClub/case-e-college-counseling.git   # Case E: unassigned
 ```
 
 This creates a folder with the repo's name (for example `case-b-music-studio`) containing all the project files.
