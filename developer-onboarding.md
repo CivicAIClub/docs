@@ -36,6 +36,15 @@ your-repo/
 
 The old single repository, `Civic-AI-Github-Repository`, is **archived**. Its history is preserved, but nothing new goes there. If you still have it cloned, you can delete that folder.
 
+### External clients
+
+Local businesses the club works with for free. Their repos follow the same workflow with one extra rule: **client data never goes in git.** Sales PDFs, exports, spreadsheets, customer lists, and email lists stay in the repo's gitignored `data/` folder or in Drive. Each external repo has a `data/README.md` explaining this. Discovery notes, contacts, and client requirements live in the club's private running doc, never in these public repos.
+
+| Case | Repository | What it is | Client | Team |
+|---|---|---|---|---|
+| Ext A | [ext-a-green-valley-hospitality](https://github.com/CivicAIClub/ext-a-green-valley-hospitality) | Daily sales recap automation | Green Valley Hospitality | to be assigned |
+| Ext B | [ext-b-black-pond-brews](https://github.com/CivicAIClub/ext-b-black-pond-brews) | Marketing and email automation | Black Pond Brews | to be assigned |
+
 ---
 
 ## What is Git and GitHub?
@@ -50,7 +59,7 @@ If you've never used Git before, here's the short version.
 
 | Term | What it means |
 |------|---------------|
-| **Repository (repo)** | A project folder that Git tracks. Each case has its own, named `case-<letter>-<name>`. It lives on GitHub, and you have a copy on your computer. |
+| **Repository (repo)** | A project folder that Git tracks. Each project has its own: faculty cases are named `case-<letter>-<name>`, external clients `ext-<letter>-<client>`. It lives on GitHub, and you have a copy on your computer. |
 | **Clone** | Downloading a repo from GitHub to your computer for the first time. You only do this once per repo. After that, you use `pull` to get updates. |
 | **Branch** | A separate version of the code where you can make changes without affecting anyone else. Like making a copy of a Google Doc to edit, then merging your edits back into the original when you're done. |
 | **Commit** | Saving a snapshot of your changes with a short description of what you did. This is a local save; it doesn't go to GitHub until you push. |
@@ -126,6 +135,8 @@ git clone https://github.com/CivicAIClub/case-b-music-studio.git    # Case B: Se
 git clone https://github.com/CivicAIClub/case-c-dei-timeline.git    # Case C: Zahir, Keke
 git clone https://github.com/CivicAIClub/case-d-roster-export.git   # Case D: James, Magnus
 git clone https://github.com/CivicAIClub/case-e-college-counseling.git   # Case E: unassigned
+git clone https://github.com/CivicAIClub/ext-a-green-valley-hospitality.git   # Ext A: to be assigned
+git clone https://github.com/CivicAIClub/ext-b-black-pond-brews.git           # Ext B: to be assigned
 ```
 
 This creates a folder with the repo's name (for example `case-b-music-studio`) containing all the project files.
