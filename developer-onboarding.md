@@ -38,12 +38,12 @@ The old single repository, `Civic-AI-Github-Repository`, is **archived**. Its hi
 
 ### External clients
 
-Local businesses the club works with for free. Their repos follow the same workflow with one extra rule: **client data never goes in git.** Sales PDFs, exports, spreadsheets, customer lists, and email lists stay in the repo's gitignored `data/` folder or in Drive. Each external repo has a `data/README.md` explaining this.
+Local businesses the club works with for free. Their repos follow the same workflow with one extra rule: **client data never goes in git.** Sales PDFs, exports, spreadsheets, customer lists, and email lists stay in the repo's gitignored `data/` folder or in Drive. Each external repo has a `data/README.md` explaining this. Discovery notes, contacts, and client requirements live in the club's private running doc, never in these public repos.
 
 | Case | Repository | What it is | Client | Team |
 |---|---|---|---|---|
-| Ext A | [ext-a-green-valley-hospitality](https://github.com/CivicAIClub/ext-a-green-valley-hospitality) | POS daily sales recap automation: SpotOn PDF → per-restaurant workbook | Green Valley Hospitality (Vanilla Bean Café, 85 Main, Dog Lane Café, Fenton River Grill) | to be assigned |
-| Ext B | [ext-b-black-pond-brews](https://github.com/CivicAIClub/ext-b-black-pond-brews) | Marketing and email automation | Black Pond Brews, Danielson CT | to be assigned |
+| Ext A | [ext-a-green-valley-hospitality](https://github.com/CivicAIClub/ext-a-green-valley-hospitality) | Daily sales recap automation | Green Valley Hospitality | to be assigned |
+| Ext B | [ext-b-black-pond-brews](https://github.com/CivicAIClub/ext-b-black-pond-brews) | Marketing and email automation | Black Pond Brews | to be assigned |
 
 ---
 
