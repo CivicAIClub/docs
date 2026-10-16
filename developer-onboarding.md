@@ -14,13 +14,16 @@ Read the whole thing before you start. It'll take 10 minutes and save you hours 
 
 Cayden has created a GitHub organization called **CivicAIClub**. **Each project has its own repository.** You clone only the repo for your case; you never need the others' code on your computer.
 
-| Case | Repository | What it is | Client | Team |
+| Case | Repository | What it is | Client | Team this year |
 |---|---|---|---|---|
-| A | [case-a-clc-workflow](https://github.com/CivicAIClub/case-a-clc-workflow) | AutoPlanner: Canvas assignments → per-student Google Docs planner (Python/FastAPI + Apps Script + static UI) | CLC Supported Study Hall | Luke Ryan, Jack Weinberg |
-| B | [case-b-music-studio](https://github.com/CivicAIClub/case-b-music-studio) | Music Studio portal: profiles, scheduling, Drive resources, recaps (Vite/React + Apps Script) | Mr. O'Neal | Serena Xu, JT Gannon |
-| C | [case-c-dei-timeline](https://github.com/CivicAIClub/case-c-dei-timeline) | Pomfret Voices: DEI interactive timeline and archive (Next.js) | Dr. McCarter | Zahir Williams, Keke Li |
-| D | [case-d-roster-export](https://github.com/CivicAIClub/case-d-roster-export) | Canvas roster → Google Docs comment templates (Apps Script) | Mr. Ring | James Lake, Magnus Songhurst, Jay Youm (alumni advisor) |
-| E | [case-e-college-counseling](https://github.com/CivicAIClub/case-e-college-counseling) | College counseling tools (discovery not started; stack TBD) | Mr. Wolanin | _unassigned_ |
+| A | [case-a-clc-workflow](https://github.com/CivicAIClub/case-a-clc-workflow) | AutoPlanner: each student's Canvas assignments as a planner Doc | CLC Supported Study Hall | Luke Ryan, Jack Weinberg, Lucas Feng, Justus Schroeder |
+| B | [case-b-music-studio](https://github.com/CivicAIClub/case-b-music-studio) | Music Studio: lessons, files, recaps and the time sheet in one place | Music Department | Serena Xu, JT Gannon, Sienna Ring, Kyle Kim |
+| C | [case-c-dei-timeline](https://github.com/CivicAIClub/case-c-dei-timeline) | Pomfret Voices: a checked history of inclusion at Pomfret | Office of Community and Belonging | Zahir Williams, Keke Li, Jacob Lee, Isabella Gachuhi, Ava Chen, Sein Heo, Kevin Wang |
+| D | [case-d-roster-export](https://github.com/CivicAIClub/case-d-roster-export) | Comment Docs from Canvas, and a helper that fills grades and comments for the teacher to check | Teaching faculty | James Lake, Magnus Songhurst, Richard Luo, Sasha Khan; Jay Youm (alumni advisor) |
+| E | [case-e-college-counseling](https://github.com/CivicAIClub/case-e-college-counseling) | College counseling tools | College Counseling Office | James Tian, James Lake, Alex Tong, Erin Park, Claire Desrosiers, Mason Gordon |
+| F | [case-f-project-pomfret](https://github.com/CivicAIClub/case-f-project-pomfret) | Sorting students into Project: Pomfret groups | Project: Pomfret | Forming |
+| G | [case-g-seated-meals](https://github.com/CivicAIClub/case-g-seated-meals) | Seated meal tables and waiter assignments | Associate Head of School's Office | Forming |
+| H | [case-h-language-placement](https://github.com/CivicAIClub/case-h-language-placement) | A placement test for incoming language students | World Languages Department | Forming |
 | — | [docs](https://github.com/CivicAIClub/docs) | This guide and other club-wide docs | — | everyone |
 
 Inside each repo, the layout is whatever that project needs (read its `README.md`). What every repo has in common:
@@ -38,12 +41,13 @@ The old single repository, `Civic-AI-Github-Repository`, is **archived**. Its hi
 
 ### External clients
 
-Local businesses the club works with for free. Their repos follow the same workflow with one extra rule: **client data never goes in git.** Sales PDFs, exports, spreadsheets, customer lists, and email lists stay in the repo's gitignored `data/` folder or in Drive. Each external repo has a `data/README.md` explaining this. Discovery notes, contacts, and client requirements live in the club's private running doc, never in these public repos.
+Local organizations the club works with for free. Their repos follow the same workflow with one extra rule: **client data never goes in git.** Sales PDFs, exports, spreadsheets, customer lists, and email lists stay in the repo's gitignored `data/` folder or in Drive. Each external repo has a `data/README.md` explaining this. Discovery notes, contacts, and client requirements live in the club's private running doc, never in these public repos.
 
-| Case | Repository | What it is | Client | Team |
+| Case | Repository | What it is | Client | Team this year |
 |---|---|---|---|---|
-| Ext A | [ext-a-green-valley-hospitality](https://github.com/CivicAIClub/ext-a-green-valley-hospitality) | Daily sales recap automation | Green Valley Hospitality | to be assigned |
-| Ext B | [ext-b-black-pond-brews](https://github.com/CivicAIClub/ext-b-black-pond-brews) | Marketing and email automation | Black Pond Brews | to be assigned |
+| Ext A | [ext-a-green-valley-hospitality](https://github.com/CivicAIClub/ext-a-green-valley-hospitality) | Daily sales recaps | Green Valley Hospitality | Serena Xu, Kai Frechette, Raymond Liu-Cai |
+| Ext B | [ext-b-black-pond-brews](https://github.com/CivicAIClub/ext-b-black-pond-brews) | Customer list and email tools | Black Pond Brews | Keke Li, Kit Chalongkul, Kyrie Thames |
+| Ext C | No repository yet | Not decided yet | Covenant Soup Kitchen | JT Gannon, Mark Donahue, Riley Smith |
 
 ---
 
