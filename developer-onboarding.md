@@ -16,10 +16,10 @@ Cayden has created a GitHub organization called **CivicAIClub**. **Each project 
 
 | Case | Repository | What it is | Client | Team this year |
 |---|---|---|---|---|
-| A | [case-a-clc-workflow](https://github.com/CivicAIClub/case-a-clc-workflow) | AutoPlanner: each student's Canvas assignments as a planner Doc | CLC Supported Study Hall | Jack Weinberg, Lucas Feng, Justus Schroeder, Keke Li, Luke Ryan |
+| A | [case-a-clc-workflow](https://github.com/CivicAIClub/case-a-clc-workflow) | AutoPlanner: each student's Canvas assignments as a planner Doc | CLC Supported Study Hall | Luke Ryan, Jack Weinberg, Lucas Feng, Justus Schroeder, Keke Li |
 | B | [case-b-music-studio](https://github.com/CivicAIClub/case-b-music-studio) | Music Studio: lessons, files, recaps and the time sheet in one place | Music Department | Serena Xu, JT Gannon, Sienna Ring, Kyle Kim, Keke Li, Luke Ryan |
-| C | [case-c-dei-timeline](https://github.com/CivicAIClub/case-c-dei-timeline) | Pomfret Voices: a checked history of inclusion at Pomfret | Office of Community and Belonging | Zahir Williams, Jacob Lee, Isabella Gachuhi, Ava Chen, Sein Heo, Kevin Wang, Keke Li, Luke Ryan |
-| D | [case-d-roster-export](https://github.com/CivicAIClub/case-d-roster-export) | Comment Docs from Canvas, and a helper that fills grades and comments for the teacher to check | Teaching faculty | James Lake, Magnus Songhurst, Richard Luo, Sasha Khan; Jay Youm (alumni advisor), Keke Li, Luke Ryan |
+| C | [case-c-dei-timeline](https://github.com/CivicAIClub/case-c-dei-timeline) | Pomfret Voices: a checked history of inclusion at Pomfret | Office of Community and Belonging | Zahir Williams, Keke Li, Jacob Lee, Isabella Gachuhi, Ava Chen, Sein Heo, Kevin Wang, Luke Ryan |
+| D | [case-d-roster-export](https://github.com/CivicAIClub/case-d-roster-export) | Comment Docs from Canvas, and a helper that fills grades and comments for the teacher to check | Teaching faculty | James Lake, Magnus Songhurst, Richard Luo, Sasha Khan, Keke Li, Luke Ryan; Jay Youm (alumni advisor) |
 | E | [case-e-college-counseling](https://github.com/CivicAIClub/case-e-college-counseling) | College counseling tools | College Counseling Office | James Tian, James Lake, Alex Tong, Erin Park, Claire Desrosiers, Mason Gordon, Keke Li, Luke Ryan |
 | F | [case-f-project-pomfret](https://github.com/CivicAIClub/case-f-project-pomfret) | Sorting students into Project: Pomfret groups | Project: Pomfret | Christoph Ortenburg, Lucas Shi, Serena Xu, Keke Li, Luke Ryan |
 | G | [case-g-seated-meals](https://github.com/CivicAIClub/case-g-seated-meals) | Seated meal tables and waiter assignments | Associate Head of School's Office | Abdul Hakim Al Khamisi, Lexi Godwin, Logan Lee, Keke Li, Luke Ryan |
@@ -46,7 +46,7 @@ Local organizations the club works with for free. Their repos follow the same wo
 | Case | Repository | What it is | Client | Team this year |
 |---|---|---|---|---|
 | Ext A | [ext-a-green-valley-hospitality](https://github.com/CivicAIClub/ext-a-green-valley-hospitality) | Daily sales recaps | Green Valley Hospitality | Serena Xu, Kai Frechette, Raymond Liu-Cai, Keke Li, Luke Ryan |
-| Ext B | [ext-b-black-pond-brews](https://github.com/CivicAIClub/ext-b-black-pond-brews) | Customer list and email tools | Black Pond Brews | Kit Chalongkul, Kyrie Thames, Keke Li, Luke Ryan |
+| Ext B | [ext-b-black-pond-brews](https://github.com/CivicAIClub/ext-b-black-pond-brews) | Customer list and email tools | Black Pond Brews | Keke Li, Kit Chalongkul, Kyrie Thames, Luke Ryan |
 | Ext C | No repository yet | Not decided yet | Covenant Soup Kitchen | JT Gannon, Mark Donahue, Riley Smith, Keke Li, Luke Ryan |
 
 ---
